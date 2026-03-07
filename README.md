@@ -59,7 +59,6 @@ I also like exploring tools that increase productivity and reduce repetitive wor
 | :-: | :-: |
 
 ---
-
 ## My Skills
 
 <p align="center">
@@ -67,13 +66,20 @@ I also like exploring tools that increase productivity and reduce repetitive wor
 <!-- Programming Languages -->
 
 <img src="https://img.shields.io/badge/Python-0A2342?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter_Notebook-0A2342?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-0A2342?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/Java-0A2342?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-0A2342?style=for-the-badge&logo=postgresql&logoColor=white">
 
+<!-- Frontend -->
+
+<img src="https://img.shields.io/badge/React-0A2342?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/TailwindCSS-0A2342?style=for-the-badge&logo=tailwindcss&logoColor=white">
+
 <!-- Backend -->
 
+<img src="https://img.shields.io/badge/Node.js-0A2342?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Spring_Boot-0A2342?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/APIs-0A2342?style=for-the-badge&logo=fastapi&logoColor=white">
 
 <!-- Data -->
 
@@ -88,6 +94,8 @@ I also like exploring tools that increase productivity and reduce repetitive wor
 <img src="https://img.shields.io/badge/Docker-0A2342?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Git-0A2342?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-0A2342?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-0A2342?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-0A2342?style=for-the-badge&logo=notion&logoColor=white">
 
 <!-- Automation -->
 
