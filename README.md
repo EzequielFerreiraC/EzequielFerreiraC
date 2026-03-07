@@ -23,12 +23,12 @@
 ## About Me
 
 <p align="justify">
-Hello! I'm Ezequiel, a technology enthusiast from Brazil focused on software engineering, data, and automation.  
+Hello! I'm Ezequiel, currently focused on data engineering, software development and IA.  
 I enjoy building solutions that integrate systems, automate workflows, and transform data into useful insights.
 </p>
 
 <p align="justify">
-My interests data engineering, artificial intelligence, include backend development, and modern software architecture.  
+My interests: data engineering, artificial intelligence, include backend development, and modern software architecture.  
 I also like exploring tools that increase productivity and reduce repetitive work through automation.
 </p>
 
