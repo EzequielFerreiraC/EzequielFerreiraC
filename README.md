@@ -28,12 +28,8 @@ I enjoy building solutions that integrate systems, automate workflows, and trans
 </p>
 
 <p align="justify">
-My interests include backend development, data engineering, artificial intelligence, and modern software architecture.  
+My interests data engineering, artificial intelligence, include backend development, and modern software architecture.  
 I also like exploring tools that increase productivity and reduce repetitive work through automation.
-</p>
-
-<p align="justify">
-Currently studying technology and constantly experimenting with new tools such as APIs, containers, automation platforms, and AI frameworks.
 </p>
 
 ---
@@ -45,7 +41,7 @@ Currently studying technology and constantly experimenting with new tools such a
 
 ## Some of My Projects
 
-- **System Modernization Experiments**  
+- **Intern System Modernization**  
   Projects related to modernization of legacy systems and backend architecture using modern frameworks and containerized environments.
 
 - **Data and Analytics Tools**  
@@ -56,7 +52,7 @@ Currently studying technology and constantly experimenting with new tools such a
 
 ---
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EzequielFerreiraC&theme=dark&hide_border=true&background=0A2342)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EzequielFerreiraC&theme=github_dark&utcOffset=3) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EzequielFerreiraC&theme=prussian&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EzequielFerreiraC&theme=prussian&utcOffset=8) |
 | :-: | :-: |
 
 ---
