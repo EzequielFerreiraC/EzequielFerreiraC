@@ -39,16 +39,19 @@ I also like exploring tools that increase productivity and reduce repetitive wor
 
 ---
 
-## Some of My Projects
+## Projects
+- **Évora Group**  
+  Led the development of Évora, a platform for educational performance management in Brazilian higher education (EaD).
+  Responsible for product strategy, backlog creation and prioritization, and coordination between development teams and stakeholders.
+  Worked with multiple databases and created UML artifacts (class and sequence diagrams) following software design best practices.
+
+  Stacks: Java, Node.js, Docker and AWS.
 
 - **Intern System Modernization**  
-  Projects related to modernization of legacy systems and backend architecture using modern frameworks and containerized environments.
+  Modernization of legacy systems and backend architecture using modern frameworks and containerized environments.
 
-- **Data and Analytics Tools**  
-  Experiments and utilities focused on data analysis, automation of pipelines, and transformation of datasets.
-
-- **Automation and Productivity Projects**  
-  Workflows and tools built to automate repetitive tasks using technologies like APIs, scripting, and integration platforms.
+- **PRDs automatation**  
+  Fully automatic PRD automation and generation (no-hand)
 
 ---
 
