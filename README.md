@@ -42,7 +42,7 @@ I also like exploring tools that increase productivity and reduce repetitive wor
 ## Projects
 - **Évora Group**  
   Led the development of Évora, a platform for educational performance management in Brazilian higher education (EaD).
-  Responsible for product strategy, backlog creation and prioritization, and coordination between development teams and stakeholders.
+  Responsible for product strategy and coordination between development teams and stakeholders.
   Worked with multiple databases and created UML artifacts (class and sequence diagrams) following software design best practices.
 
   Stacks: Java, Node.js, Docker and AWS.
