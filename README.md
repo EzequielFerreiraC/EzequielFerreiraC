@@ -34,7 +34,7 @@ I also like exploring tools that increase productivity and reduce repetitive wor
 
 ---
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EzequielFerreiraC&theme=github_dark) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EzequielFerreiraC&theme=github_dark)  |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EzequielFerreiraC&theme=prussian) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EzequielFerreiraC&theme=prussian)  |
 | :-: | :-: |
 
 ---
