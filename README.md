@@ -40,18 +40,29 @@ I also like exploring tools that increase productivity and reduce repetitive wor
 ---
 
 ## Projects
-- **Évora Group**  
-  Led the development of Évora, a platform for educational performance management in Brazilian higher education (EaD).
-  Responsible for product strategy and coordination between development teams and stakeholders.
-  Worked with multiple databases and created UML artifacts (class and sequence diagrams) following software design best practices.
 
-  Stacks: Java, Node.js, Docker and AWS.
+- **B3 Data Plataform**  
+  Financial data lakehouse for B3 market data, implementing a full Medallion Architecture with automated pipelines, orchestration,
+  and analytical report generation. The platform processes daily data from Yahoo Finance, producing analytical insights through automated PDF reports with
+  portfolio metrics, risk analysis, and technical indicators.
 
-- **Intern System Modernization**  
-  Modernization of legacy systems and backend architecture using modern frameworks and containerized environments.
+  Stacks: Python, Polars, PySpark, Jupyter Notebook, Apache Airflow, Docker, MinIO, Matplotlib, Parquet
 
-- **PRDs automatation**  
-  Fully automatic PRD automation and generation (no-hand)
+- **Github Copilot Automatic Agents**  
+  A open source repository auto-github-copilot-agents, which provides 37 specialized GitHub Copilot agents for VS Code and Intelijj covering areas such as
+  frontend, backend, data, DevOps, AI, mobile, and software architecture. The goal of the project is to facilitate and automate development tasks,
+  streamlining workflows for developers across multiple disciplines.
+
+  Stacks: Shell Script, GitHub Copilot, VS Code, Intelijj
+
+- **Casale Buffet**  
+  End-to-end buffet management system to a real client, designed to streamline operations across the entire workflow,
+  from order management to service execution.
+  In addition to my Scrum responsibilities, I played a key role in the frontend development, being a crucial contributor to the migration to a architecture
+  using React with Vite.
+
+  Stacks: Spring Boot, React with Vite, Docker, SQL, Shell Script
+  
 
 ---
 
@@ -109,11 +120,3 @@ I also like exploring tools that increase productivity and reduce repetitive wor
 </p>
 
 ---
-
-<p align="center"> 
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
- </picture>
-</p>
