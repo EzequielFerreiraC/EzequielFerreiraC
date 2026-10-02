@@ -171,7 +171,7 @@ across frontend, infrastructure and cloud migration.
     </td>
     <td align="center">
       <img
-        width="400"
+        width="300"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielFerreiraC&layout=compact&hide_border=true&title_color=FF5800&text_color=FFFFFF&bg_color=0D0D0D"
         alt="Top Languages"
       />
@@ -180,7 +180,7 @@ across frontend, infrastructure and cloud migration.
   <tr>
     <td colspan="2" align="center">
       <img
-        width="805"
+        width="600"
         src="https://github-readme-streak-stats.herokuapp.com?user=EzequielFerreiraC&hide_border=true&background=0D0D0D&stroke=262626&ring=FF5800&fire=FF5800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF5800&sideLabels=FF5800&dates=9E9E9E"
         alt="GitHub Streak"
       />
