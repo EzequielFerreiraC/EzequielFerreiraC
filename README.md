@@ -6,12 +6,10 @@
 </div>
 
 <div align="center">
-
   <img
     src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=600&size=22&duration=3000&pause=800&color=FF5800&center=true&vCenter=true&width=800&lines=Hi,+I'm+Ezequiel;Data+%26+AI+Engineer;Data+Engineering+%7C+LLMs+%7C+AI+Agents;Building+Data,+AI+and+Automation+Solutions"
     alt="Typing SVG"
   />
-
 </div>
 
 <p align="center">
@@ -31,19 +29,8 @@
 ## About Me
 
 <p align="justify">
-I'm Ezequiel, a Data & AI Engineer focused on building scalable data solutions,
-intelligent automation and modern software infrastructure.
-</p>
-
-<p align="justify">
-I currently work with data engineering, legacy system modernization and
-LLM-powered automation, developing solutions with Python, SQL, PySpark,
-Apache Airflow, Docker and cloud platforms.
-</p>
-
-<p align="justify">
-My main interests include Data Engineering, Artificial Intelligence,
-AI Agents, ETL/ELT pipelines, cloud infrastructure and software automation.
+I'm Ezequiel, a Data & AI Engineer focused on Data Engineering, Artificial Intelligence and automation.
+I currently work with data pipelines, legacy system modernization, data quality and LLM-powered solutions using technologies such as Python, SQL, PySpark, Apache Airflow, Docker, Terraform and cloud platforms.
 </p>
 
 ---
@@ -52,12 +39,9 @@ AI Agents, ETL/ELT pipelines, cloud infrastructure and software automation.
 
 ### Stefanini Group: Data & AI Engineer Intern
 
-- Developed automated analysis and documentation pipelines for legacy COBOL systems.
-- Built solutions that reduced manual analysis time by more than 70%.
-- Created dependency and code-flow graphs using NetworkX.
-- Developed automated test-case generation using LLMs.
-- Worked with large-scale migration, reconciliation and data-quality pipelines.
-- Applied Python, SQL, PySpark, Docker, Terraform, COBOL, JCL and AI Agents.
+- Developed automated analysis, documentation and test-generation pipelines for legacy COBOL systems using LLMs.
+- Built solutions that reduced manual analysis time by more than 70%, including dependency graphs and static analysis.
+- Worked with large-scale migration, ETL/ELT, reconciliation and data-quality pipelines using Python, SQL, PySpark, Docker and Terraform.
 
 ---
 
@@ -65,16 +49,12 @@ AI Agents, ETL/ELT pipelines, cloud infrastructure and software automation.
 
 ### Finplay
 
-Financial platform infrastructure project focused on multicloud environments,
-deployment automation and production reliability.
+Financial platform infrastructure focused on multicloud environments, production reliability and service integrations.
 
 **Highlights**
-- Multicloud infrastructure using AWS and GCP.
-- Infrastructure as Code with Terraform.
-- Containerized environments using Docker.
-- Payment integration with Stripe.
-- Backend and API integrations.
-- Technical and architecture documentation.
+- Built and standardized infrastructure across AWS and GCP using Terraform and Docker.
+- Worked with deployment automation, secure connectivity and production troubleshooting.
+- Contributed to payment integrations, APIs and technical architecture documentation.
 
 **Stack**
 
@@ -83,45 +63,46 @@ deployment automation and production reliability.
   <img src="https://img.shields.io/badge/GCP-161616?style=flat-square&logo=googlecloud&logoColor=FF5800">
   <img src="https://img.shields.io/badge/Terraform-161616?style=flat-square&logo=terraform&logoColor=FF5800">
   <img src="https://img.shields.io/badge/Docker-161616?style=flat-square&logo=docker&logoColor=FF5800">
+  <img src="https://img.shields.io/badge/Bash-161616?style=flat-square&logo=gnubash&logoColor=FF5800">
   <img src="https://img.shields.io/badge/Linux-161616?style=flat-square&logo=linux&logoColor=FF5800">
+  <img src="https://img.shields.io/badge/Stripe-161616?style=flat-square&logo=stripe&logoColor=FF5800">
+  <img src="https://img.shields.io/badge/REST_APIs-161616?style=flat-square&logo=fastapi&logoColor=FF5800">
 </p>
 
 ---
 
 ### B3 Data Lakehouse Platform
 
-Financial Data Lakehouse for Brazilian stock market data using Medallion Architecture,
-automated pipelines, orchestration and analytical report generation.
+Financial Data Lakehouse for Brazilian stock market data using Medallion Architecture and automated data pipelines.
 
 **Highlights**
-- Data pipelines using Python and PySpark.
-- Workflow orchestration with Apache Airflow.
-- Containerized environment with Docker Compose.
-- Automated financial analytics and PDF report generation.
-- Portfolio, correlation, Bollinger Bands and risk-return analysis.
+- Developed ingestion and processing pipelines using Python and PySpark.
+- Orchestrated workflows and pipeline dependencies with Apache Airflow.
+- Automated financial analytics and PDF reports with portfolio, correlation and risk analysis.
 
 **Stack**
 
 <p>
   <img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=FF5800">
   <img src="https://img.shields.io/badge/PySpark-161616?style=flat-square&logo=apachespark&logoColor=FF5800">
+  <img src="https://img.shields.io/badge/Apache_Spark-161616?style=flat-square&logo=apachespark&logoColor=FF5800">
   <img src="https://img.shields.io/badge/Airflow-161616?style=flat-square&logo=apacheairflow&logoColor=FF5800">
   <img src="https://img.shields.io/badge/Docker-161616?style=flat-square&logo=docker&logoColor=FF5800">
+  <img src="https://img.shields.io/badge/Jupyter-161616?style=flat-square&logo=jupyter&logoColor=FF5800">
   <img src="https://img.shields.io/badge/Parquet-161616?style=flat-square&logo=apache&logoColor=FF5800">
+  <img src="https://img.shields.io/badge/Matplotlib-161616?style=flat-square&logo=python&logoColor=FF5800">
 </p>
 
 ---
 
 ### GitHub Copilot Automatic Agents
 
-Open-source project containing 37 specialized GitHub Copilot agents for development,
-data, AI, DevOps and software architecture.
+Open-source project with 37 specialized GitHub Copilot agents for software engineering, data, AI and DevOps.
 
 **Highlights**
-- Specialized agents for multiple software engineering areas.
-- Shell automation scripts.
-- Open-source collaboration and code review.
-- Development workflows focused on productivity and automation.
+- Designed specialized agents for multiple software engineering areas.
+- Developed Shell automation for development workflows.
+- Collaborated through code reviews and open-source contributions.
 
 **Stack**
 
@@ -129,29 +110,31 @@ data, AI, DevOps and software architecture.
   <img src="https://img.shields.io/badge/Shell-161616?style=flat-square&logo=gnubash&logoColor=FF5800">
   <img src="https://img.shields.io/badge/GitHub_Copilot-161616?style=flat-square&logo=githubcopilot&logoColor=FF5800">
   <img src="https://img.shields.io/badge/AI_Agents-161616?style=flat-square&logo=openai&logoColor=FF5800">
+  <img src="https://img.shields.io/badge/Git-161616?style=flat-square&logo=git&logoColor=FF5800">
 </p>
 
 ---
 
 ### Casale Buffet
 
-End-to-end management platform developed for a real client, with contributions
-across frontend, infrastructure and cloud migration.
+End-to-end management platform developed for a real client, with contributions across frontend, infrastructure and cloud.
 
 **Highlights**
-- Migration of infrastructure to AWS.
-- Introduction of CI/CD practices.
-- Frontend modernization using React.
-- Infrastructure automation using Terraform.
-- Scrum Master responsibilities.
+- Migrated the application infrastructure to AWS and introduced CI/CD practices.
+- Contributed to frontend modernization and full-stack development.
+- Worked as Scrum Master while supporting infrastructure and delivery automation.
 
 **Stack**
 
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-161616?style=flat-square&logo=springboot&logoColor=FF5800">
   <img src="https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=FF5800">
+  <img src="https://img.shields.io/badge/Java-161616?style=flat-square&logo=openjdk&logoColor=FF5800">
+  <img src="https://img.shields.io/badge/SQL-161616?style=flat-square&logo=mysql&logoColor=FF5800">
   <img src="https://img.shields.io/badge/AWS-161616?style=flat-square&logo=amazonaws&logoColor=FF5800">
+  <img src="https://img.shields.io/badge/Docker-161616?style=flat-square&logo=docker&logoColor=FF5800">
   <img src="https://img.shields.io/badge/Terraform-161616?style=flat-square&logo=terraform&logoColor=FF5800">
+  <img src="https://img.shields.io/badge/GitHub_Actions-161616?style=flat-square&logo=githubactions&logoColor=FF5800">
 </p>
 
 ---
