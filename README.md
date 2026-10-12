@@ -115,30 +115,6 @@ Open-source project with 37 specialized GitHub Copilot agents for software engin
 
 ---
 
-### Casale Buffet
-
-End-to-end management platform developed for a real client, with contributions across frontend, infrastructure and cloud.
-
-**Highlights**
-- Migrated the application infrastructure to AWS and introduced CI/CD practices.
-- Contributed to frontend modernization and full-stack development.
-- Worked as Scrum Master while supporting infrastructure and delivery automation.
-
-**Stack**
-
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-161616?style=flat-square&logo=springboot&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/Java-161616?style=flat-square&logo=openjdk&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/SQL-161616?style=flat-square&logo=mysql&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/AWS-161616?style=flat-square&logo=amazonaws&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/Docker-161616?style=flat-square&logo=docker&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/Terraform-161616?style=flat-square&logo=terraform&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/GitHub_Actions-161616?style=flat-square&logo=githubactions&logoColor=FF5800">
-</p>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
