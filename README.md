@@ -1,26 +1,23 @@
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF5800&section=header"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=05132A&section=header" width="100%" />
 </div>
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=600&size=22&duration=3000&pause=800&color=FF5800&center=true&vCenter=true&width=800&lines=Hi,+I'm+Ezequiel;Data+%26+AI+Engineer;Data+Engineering+%7C+LLMs+%7C+AI+Agents;Building+Data,+AI+and+Automation+Solutions"
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=600&size=22&duration=3000&pause=800&color=195AB4&center=true&vCenter=true&width=800&lines=Hi,+I'm+Ezequiel;Data+%26+AI+Engineer;Data+Engineering+%7C+LLMs+%7C+AI+Agents;Building+Data,+AI+and+Automation+Solutions"
     alt="Typing SVG"
   />
 </div>
 
 <p align="center">
   <a href="https://github.com/EzequielFerreiraC">
-    <img src="https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=FF5800">
+    <img src="https://img.shields.io/badge/GitHub-05132A?style=for-the-badge&logo=github&logoColor=FFFFFF">
   </a>
   <a href="mailto:ezequiel.cardoso1605@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-161616?style=for-the-badge&logo=gmail&logoColor=FF5800">
+    <img src="https://img.shields.io/badge/Gmail-05132A?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
   </a>
   <a href="https://www.linkedin.com/in/ezequiel-f-3934bb2ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=FF5800">
+    <img src="https://img.shields.io/badge/LinkedIn-05132A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
   </a>
 </p>
 
@@ -28,89 +25,63 @@
 
 ## About Me
 
-<p align="justify">
-I'm Ezequiel, a Data & AI Engineer focused on Data Engineering, Artificial Intelligence and automation.
-I currently work with data pipelines, legacy system modernization, data quality and LLM-powered solutions using technologies such as Python, SQL, PySpark, Apache Airflow, Docker, Terraform and cloud platforms.
-</p>
+I'm a Data & AI Engineer focused on Data Engineering, Artificial Intelligence and automation. I work with data pipelines, legacy system modernization, data quality and LLM-powered solutions using Python, SQL, PySpark, Apache Airflow, Docker, Terraform and cloud platforms.
 
 ---
 
-## Experience Highlights
+## Professional Experience
 
-### Stefanini Group: Data & AI Engineer Intern
+### Stefanini Group — Data & AI Engineer Intern
 
-- Developed automated analysis, documentation and test-generation pipelines for legacy COBOL systems using LLMs.
-- Built solutions that reduced manual analysis time by more than 70%, including dependency graphs and static analysis.
-- Worked with large-scale migration, ETL/ELT, reconciliation and data-quality pipelines using Python, SQL, PySpark, Docker and Terraform.
+- Developed LLM-powered solutions for automated analysis, documentation and test generation in legacy COBOL systems.
+- Built automated workflows combining static analysis, dependency graphs and AI-powered processing, with reported reductions of over 70% in manual analysis time.
+- Worked with ETL/ELT, data migration, reconciliation and data quality using Python, SQL, PySpark, Docker and Terraform.
 
 ---
 
 ## Featured Projects
 
-### Finplay
-
-Financial platform infrastructure focused on multicloud environments, production reliability and service integrations.
-
-**Highlights**
-- Built and standardized infrastructure across AWS and GCP using Terraform and Docker.
-- Worked with deployment automation, secure connectivity and production troubleshooting.
-- Contributed to payment integrations, APIs and technical architecture documentation.
-
-**Stack**
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-161616?style=flat-square&logo=amazonaws&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/GCP-161616?style=flat-square&logo=googlecloud&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/Terraform-161616?style=flat-square&logo=terraform&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/Docker-161616?style=flat-square&logo=docker&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/Bash-161616?style=flat-square&logo=gnubash&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/Linux-161616?style=flat-square&logo=linux&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/Stripe-161616?style=flat-square&logo=stripe&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/REST_APIs-161616?style=flat-square&logo=fastapi&logoColor=FF5800">
-</p>
-
----
-
 ### B3 Data Lakehouse Platform
 
-Financial Data Lakehouse for Brazilian stock market data using Medallion Architecture and automated data pipelines.
+Financial Data Lakehouse for Brazilian stock market data, following Medallion Architecture.
 
-**Highlights**
-- Developed ingestion and processing pipelines using Python and PySpark.
-- Orchestrated workflows and pipeline dependencies with Apache Airflow.
-- Automated financial analytics and PDF reports with portfolio, correlation and risk analysis.
+- Built ingestion and processing pipelines using Python, Polars and PySpark.
+- Orchestrated workflows and dependencies with Apache Airflow.
+- Automated financial reports covering portfolio performance, correlations, technical indicators and risk analysis.
+- Used Parquet as the storage format.
 
 **Stack**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/PySpark-161616?style=flat-square&logo=apachespark&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/Apache_Spark-161616?style=flat-square&logo=apachespark&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/Airflow-161616?style=flat-square&logo=apacheairflow&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/Docker-161616?style=flat-square&logo=docker&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/Jupyter-161616?style=flat-square&logo=jupyter&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/Parquet-161616?style=flat-square&logo=apache&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/Matplotlib-161616?style=flat-square&logo=python&logoColor=FF5800">
+  <img src="https://img.shields.io/badge/Python-05132A?style=flat-square&logo=python&logoColor=549CFF">
+  <img src="https://img.shields.io/badge/PySpark-05132A?style=flat-square&logo=apachespark&logoColor=549CFF">
+  <img src="https://img.shields.io/badge/Apache_Airflow-05132A?style=flat-square&logo=apacheairflow&logoColor=549CFF">
+  <img src="https://img.shields.io/badge/Polars-05132A?style=flat-square&logo=polars&logoColor=549CFF">
+  <img src="https://img.shields.io/badge/Docker-05132A?style=flat-square&logo=docker&logoColor=549CFF">
+  <img src="https://img.shields.io/badge/Parquet-05132A?style=flat-square&logo=apache&logoColor=549CFF">
 </p>
 
 ---
 
-### GitHub Copilot Automatic Agents
+### Finplay
 
-Open-source project with 37 specialized GitHub Copilot agents for software engineering, data, AI and DevOps.
+Contributed to financial platform infrastructure, multicloud environments and production integrations.
 
-**Highlights**
-- Designed specialized agents for multiple software engineering areas.
-- Developed Shell automation for development workflows.
-- Collaborated through code reviews and open-source contributions.
+- Built and standardized infrastructure across AWS and GCP using Terraform and Docker.
+- Implemented deployment automation, secure connectivity and infrastructure troubleshooting.
+- Contributed to payment integrations, REST APIs and technical architecture documentation.
 
 **Stack**
 
 <p>
-  <img src="https://img.shields.io/badge/Shell-161616?style=flat-square&logo=gnubash&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/GitHub_Copilot-161616?style=flat-square&logo=githubcopilot&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/AI_Agents-161616?style=flat-square&logo=openai&logoColor=FF5800">
-  <img src="https://img.shields.io/badge/Git-161616?style=flat-square&logo=git&logoColor=FF5800">
+  <img src="https://img.shields.io/badge/AWS-05132A?style=flat-square&logo=amazonaws&logoColor=549CFF">
+  <img src="https://img.shields.io/badge/GCP-05132A?style=flat-square&logo=googlecloud&logoColor=549CFF">
+  <img src="https://img.shields.io/badge/Terraform-05132A?style=flat-square&logo=terraform&logoColor=549CFF">
+  <img src="https://img.shields.io/badge/Docker-05132A?style=flat-square&logo=docker&logoColor=549CFF">
+  <img src="https://img.shields.io/badge/Linux-05132A?style=flat-square&logo=linux&logoColor=549CFF">
+  <img src="https://img.shields.io/badge/Stripe-05132A?style=flat-square&logo=stripe&logoColor=549CFF">
+  <img src="https://img.shields.io/badge/REST_APIs-05132A?style=flat-square&logo=fastapi&logoColor=549CFF">
+  <img src="https://img.shields.io/badge/Bash-05132A?style=flat-square&logo=gnubash&logoColor=549CFF">
 </p>
 
 ---
@@ -124,14 +95,14 @@ Open-source project with 37 specialized GitHub Copilot agents for software engin
     <td align="center">
       <img
         width="400"
-        src="https://github-readme-stats.vercel.app/api?username=EzequielFerreiraC&show_icons=true&count_private=true&hide_border=true&title_color=FF5800&icon_color=FF5800&text_color=FFFFFF&bg_color=0D0D0D"
+        src="https://github-readme-stats.vercel.app/api?username=EzequielFerreiraC&show_icons=true&count_private=true&hide_border=true&title_color=549CFF&icon_color=195AB4&text_color=FFFFFF&bg_color=05132A"
         alt="GitHub Stats"
       />
     </td>
     <td align="center">
       <img
         width="300"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielFerreiraC&layout=compact&hide_border=true&title_color=FF5800&text_color=FFFFFF&bg_color=0D0D0D"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielFerreiraC&layout=compact&hide_border=true&title_color=549CFF&text_color=FFFFFF&bg_color=05132A"
         alt="Top Languages"
       />
     </td>
@@ -140,7 +111,7 @@ Open-source project with 37 specialized GitHub Copilot agents for software engin
     <td colspan="2" align="center">
       <img
         width="600"
-        src="https://github-readme-streak-stats.herokuapp.com?user=EzequielFerreiraC&hide_border=true&background=0D0D0D&stroke=262626&ring=FF5800&fire=FF5800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF5800&sideLabels=FF5800&dates=9E9E9E"
+        src="https://github-readme-streak-stats.herokuapp.com?user=EzequielFerreiraC&hide_border=true&background=05132A&stroke=0B2859&ring=195AB4&fire=307AE0&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=549CFF&sideLabels=549CFF&dates=87BAFF"
         alt="GitHub Streak"
       />
     </td>
@@ -152,8 +123,5 @@ Open-source project with 37 specialized GitHub Copilot agents for software engin
 ---
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=90&color=FF5800&section=footer"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=05132A&section=footer" width="100%" />
 </div>
