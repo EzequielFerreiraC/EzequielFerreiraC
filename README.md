@@ -31,7 +31,7 @@ I'm a Data & AI Engineer focused on Data Engineering, Artificial Intelligence an
 
 ## Professional Experience
 
-### Stefanini Group — Data & AI Engineer Intern
+### Stefanini Group: Data & AI Engineer Intern
 
 - Developed LLM-powered solutions for automated analysis, documentation and test generation in legacy COBOL systems.
 - Built automated workflows combining static analysis, dependency graphs and AI-powered processing, with reported reductions of over 70% in manual analysis time.
